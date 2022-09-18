@@ -1,0 +1,38 @@
+- name: Nairalance Rewards for Android
+  url: https://github.com/anthonioez/nairalance_rewards_android
+  description: Reward based app with daily tasks and cashouts
+  used:
+    - thing: Java
+    - thing: Kotlin
+    - thing: Firebase
+
+- name: Dayly for Android
+  url: https://miciniti.com/blog/dayly-for-android
+  description: A personal journal/diary app for Android.
+  used:
+    - thing: Java
+    - thing: Dropbox
+
+- name: Score Keeper for Android
+  url: https://github.com/anthonioez/scorekeeper_android
+  description: A simple scorekeeper for an arbitrary number of players.
+  used:
+    - thing: Java
+
+- name: Currency Converter for Android
+  url: https://github.com/anthonioez/currency_converter_android
+  description: A currency converter app using openexchangerates.org.
+  used:
+    - thing: Java
+
+- name: Employee Attendance for Android
+  url: https://github.com/anthonioez/employee_attendance_android
+  description: Employee attendance app with GPS and barcode scanner
+  used:
+    - thing: Java
+
+- name: AUD Monitor for Android
+  url: https://github.com/anthonioez/aud_monitor_android
+  description: Forex rates monitor app with background service and notifications.
+  used:
+    - thing: Java

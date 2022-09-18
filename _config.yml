@@ -35,15 +35,15 @@ social:
     url: mailto:anthonioez@gmail.com
   - title: github
     url: https://github.com/anthonioez
-  - title: linkedin
-    url: https://www.linkedin.com/in/anthony-ezeh
   - title: behance
     url: https://behance.net/anthonioez
+  - title: linkedin
+    url: https://linkedin.com/in/anthony-ezeh
 
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
 
 exclude:
   - 'Gemfile'
@@ -55,6 +55,7 @@ exclude:
   - 'gulpfile.js'
   - 'gruntfile.js'
   - 'package.json'
+  - 'package-lock.json'
 
 keep_files:
   - 'CNAME'

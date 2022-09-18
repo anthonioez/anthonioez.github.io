@@ -1,60 +1,67 @@
 - name: Nairalance Rewards for iOS
   url: https://github.com/anthonioez/nairalance_rewards_ios
-  description: Reward based app with daily tasks and cashouts
+  description: Reward based app with daily tasks and cashouts.
   used:
     - thing: Swift
     - thing: Objective C
 
-- name: Camera Preview
+- name: Dayly for iOS
+  url: https://miciniti.com/blog/dayly-for-ios
+  description: A personal journal/diary app for iOS.
+  used:
+    - thing: Objective-C
+    - thing: Dropbox
+
+- name: Camera Preview for iOS
   url: https://github.com/anthonioez/camera_scanner_ios
-  description: Camera preview with circular progress and wave animations in SwiftUI
+  description: Camera preview with circular progress and wave animations in SwiftUI.
   used:
     - thing: Swift
     - thing: SwiftUI
 
-- name: Selfie Modelling
+- name: Selfie Modelling for iOS
   url: https://github.com/anthonioez/selfie_modelling_ios
-  description: Automatic photo capture and video recording
+  description: Automatic photo capture and video recording.
   used:
     - thing: Objective C
 
 - name: Bill Stack for iOS
   url: https://github.com/anthonioez/billstack_ios
-  description: Bill management app
+  description: Bill management app.
   used:
     - thing: Objective C
     - thing: Parse
 
 - name: Colors for iOS
   url: https://github.com/anthonioez/colors_ios
-  description: Wall paint color picker with MapKit
+  description: Wall paint color picker with MapKit.
   used:
     - thing: Objective C
     - thing: MapKit
 
 - name: Kickz Exchange for iOS
   url: https://github.com/anthonioez/kicks_exchange_ios
-  description: Sneakers exchange app
+  description: Sneakers exchange app.
   used:
     - thing: Objective C
     - thing: PayPal
 
-- name: Trattoria Cesarino
+- name: Trattoria Cesarino for iOS
   url: https://github.com/anthonioez/fr_ios
-  description: Trattoria Cesarino
+  description: Trattoria Cesarino.
   used:
     - thing: Objective C
     - thing: MapKit
 
-- name: Review This
+- name: Review This for iOS
   url: https://github.com/anthonioez/fr_ios
-  description: Online review with reviewer and review requested apps
+  description: Online review with reviewer and review requested apps.
   used:
     - thing: Objective C
 
-- name: GPS Tracking
+- name: GPS Tracking for iOS
   url: https://github.com/anthonioez/location_tracking_ios
-  description: GPS tracking and MapKit
+  description: GPS tracking and MapKit.
   used:
     - thing: Swift
     - thing: Objective C

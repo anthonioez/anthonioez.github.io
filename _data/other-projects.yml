@@ -1,5 +1,12 @@
 - group: Other Projects (iOS)
   projects:
+    - name: AltBank for iOS
+      url: https://apps.apple.com/ng/app/altbank/id1513246800
+      description: A banking app.
+      used:
+        - thing: Swift
+        - thing: Objective C
+
     - name: Sync for iOS
       url: https://apps.apple.com/app/sync-file-backup-and-restore/id945501464
       description: Personal file backup and file manager app with multithreaded file processing.
@@ -74,21 +81,142 @@
         - thing: Objective C
 
     - name: Miscellaneous
-      url: /ios-extra.html
-      description: Other iOS projects
+      url: /misc-ios.html
+      description: Miscellaneous iOS projects
 
 - group: Other Projects (Android)
   projects:
-    - name: To be added...
+    - name: Unifi for Android
+      url: https://play.google.com/store/apps/details?id=com.teamapt.unitymobile
+      description: A banking app.
+      used:
+        - thing: Kotlin
+        - thing: Java
 
-- group: Other Projects (BlackBerry)
-  projects:
-    - name: To be added...
+    - name: Sync for Android
+      url: https://play.google.com/store/apps/details?id=com.miciniti.sync.android
+      description: Personal file backup and file manager app with multithreaded file processing.
+      used:
+        - thing: Kotlin
+        - thing: Java
+        - thing: Firebase
+        - thing: Dropbox
+        - thing: Google Drive
+        - thing: OneDrive
+        - thing: AWS S3
+        - thing: Box
+
+    - name: Screentime Player for Android/Android TV
+      url: https://play.google.com/store/apps/details?id=cloud.screentime.player.android
+      description: Digitial signage player app for screentime.cloud
+      used:
+        - thing: Kotlin
+        - thing: Java
+        - thing: REST API
+
+    - name: Nairalance for Android
+      url: https://play.google.com/store/apps/details?id=com.nairalance.android
+      description: A freelance, outsourcing and micro-services marketplace.
+      used:
+        - thing: Kotlin
+        - thing: Java
+        - thing: Firebase
+        - thing: REST API
+
+    - name: Navahang for Android
+      url: https://play.google.com/store/apps/details?id=com.navahang.app
+      description: A music and video streaming app.
+      used:
+        - thing: Java
+        - thing: REST API
+
+    - name: Caltex Music for Android
+      url: https://play.google.com/store/apps/details?id=com.caltexmusic.app
+      description: A Persian music and video streaming app 
+      used:
+        - thing: Java
+        - thing: REST API
+
+    - name: Aalisiri for Android
+      url: https://play.google.com/store/apps/details?id=com.alisiria.audiobook
+      description: An audio book player app
+      used:
+        - thing: Java
+
+    - name: Ronnie Saleh for Android
+      url: https://play.google.com/store/apps/details?id=com.roniesaleh.video
+      description: Audio and video streaming app
+      used:
+        - thing: Java
+    
+    - name: Uro-BioM for Android
+      url: https://play.google.com/store/apps/details?id=com.vaxis.urobiom
+      description: Patient biopsy app
+      used:
+        - thing: Java
+    
+    - name: Diamoci Credito
+      url: https://play.google.com/store/apps/details?id=com.diamocicredito.android
+      description: A payments app
+      used:
+        - thing: Java
+
+    - name: Miscellaneous
+      url: /misc-android.html
+      description: Miscellaneous Android projects
+
+#- group: Other Projects (BlackBerry)
+#  projects:
+#    - name: To be added...
 
 - group: Other Projects (Frontend)
   projects:
-    - name: To be added...
+    - name: Screentime
+      url: https://screentime.cloud
+      description: Digital signage and content management platform.
+      used:
+        - thing: HTML
+        - thing: CSS
+        - thing: Javascript  
+        - thing: Bootstrap
 
-- group: Other Projects (Backend)
-  projects:
-    - name: To be added...
+    - name: Clubb
+      url: https://clubb.app
+      description: The premier destination for content creators and their communities.
+      used:
+        - thing: Kotlin
+        - thing: HTML
+        - thing: CSS
+        - thing: Javascript  
+        - thing: Bootstrap
+
+    - name: Halftime
+      url: https://thehalftime.app
+      description: One-stop shop for discussions, debates, news and highlights.
+      used:
+        - thing: Kotlin
+        - thing: HTML
+        - thing: CSS
+        - thing: Javascript
+        - thing: Bootstrap
+
+    - name: Catchup
+      url: https://catchup.ng
+      description: News aggregation platform.
+      used:
+        - thing: Reactjs
+        - thing: CSS
+        - thing: Javascript
+
+    - name: Nairalance
+      url: https://nairalance.com
+      description: Freelance and outsourcing marketplace.
+      used:
+        - thing: HTML
+        - thing: CSS
+        - thing: Javascript
+        - thing: Wordpress
+
+#- group: Other Projects (Backend)
+#  projects:
+#    - name: To be added...

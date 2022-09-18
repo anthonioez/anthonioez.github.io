@@ -8,6 +8,12 @@
     </div>
   </div>
   <div class="footer__links">
+    {% if home != true %}
+    <a href="/" target="_blank" title="Home">
+        <span class="text">Home</span>
+    </a>
+    {% endif %}
+
     {% for link in site.social %}
     <a href="{{link.url}}" target="_blank" title="{{link.title}}">
       <span class="text">{{link.title}}</span>

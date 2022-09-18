@@ -2,6 +2,11 @@
   id: catchup-ios
   url: https://apps.apple.com/us/app/catchup-news-newspapers-blogs/id943973024
   description: New aggregation app for iOS built with Swift/SwiftUI.
+  used:
+    - thing: Swift
+    - thing: SwiftUI
+    - thing: Objective-C
+    - thing: Firebase
   images:
     - url: /static/img/featured/catchup-ios/1.png
     - url: /static/img/featured/catchup-ios/2.png
@@ -12,6 +17,10 @@
   id: catchup-android
   url: https://play.google.com/store/apps/details?id=ng.catchup.android
   description: New aggregation app for Android built with Java/Kotlin.
+  used:
+    - thing: Kotlin
+    - thing: Java
+    - thing: Firebase
   images:
     - url: /static/img/featured/catchup-android/1.png
     - url: /static/img/featured/catchup-android/2.png
@@ -22,6 +31,10 @@
   id: halftime-ios
   url: https://apps.apple.com/app/halftime-basketball/id1486483659
   description: Sports community, live audio, news and quiz. Built with Swift & Flutter
+  used:
+    - thing: Swift
+    - thing: Objective-C
+    - thing: Flutter
   images:
     - url: /static/img/featured/halftime-ios/1.png
     - url: /static/img/featured/halftime-ios/2.png
@@ -32,6 +45,10 @@
   id: halftime-android
   url: https://play.google.com/store/apps/details?id=co.sayshell.halftime
   description: Sports community, live audio, news and quiz. Built with Java, Kotlin & Flutter
+  used:
+    - thing: Kotlin
+    - thing: Java
+    - thing: Flutter
   images:
     - url: /static/img/featured/halftime-android/1.png
     - url: /static/img/featured/halftime-android/2.png
@@ -42,6 +59,9 @@
   id: screentime-ios
   url: https://apps.apple.com/app/stm-screentime-manager/id1447876325
   description: Manager app for screentime.cloud digital signage platform. Built with swift & Objective-C
+  used:
+    - thing: Swift
+    - thing: Objective-C
   images:
     - url: /static/img/featured/screentime-ios/1.png
     - url: /static/img/featured/screentime-ios/2.png
@@ -52,6 +72,9 @@
   id: screentime-ios
   url: https://play.google.com/store/apps/details?id=cloud.screentime.manager.android
   description: Manager app for screentime.cloud digital signage platform. Built with Kotlin.
+  used:
+    - thing: Kotlin
+    - thing: Java
   images:
     - url: /static/img/featured/screentime-android/1.png
     - url: /static/img/featured/screentime-android/2.png
