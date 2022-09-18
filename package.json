@@ -1,0 +1,29 @@
+{
+    "name": "anthonioez",
+    "version": "0.0.0",
+    "description": "About",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anthonioez/anthonioez.github.io"
+    },
+    "homepage": "https://anthonioez.github.io",
+    "main": "gruntfile.js",
+    "scripts": {
+        "start": "grunt build && bundle exec jekyll serve --livereload",
+        "build": "grunt build && bundle exec jekyll build"
+    },
+    "author": "Anthony Ezeh",
+    "license": "ISC",
+    "devDependencies": {
+        "grunt": "^1.5.3",
+        "grunt-contrib-clean": "^2.0.1",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-imagemin": "^4.0.0",
+        "grunt-contrib-sass": "^2.0.0",
+        "grunt-contrib-uglify": "^5.2.2",
+        "grunt-contrib-watch": "^1.1.0",
+        "grunt-sass": "^3.1.0",
+        "load-grunt-tasks": "^5.1.0",
+        "sass": "^1.54.9"
+    }
+}

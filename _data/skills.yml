@@ -1,0 +1,34 @@
+languages:
+  - item: Swift/Objective-C
+  - item: Kotlin
+  - item: Java
+  - item: Dart
+  - item: JavaScript
+  - item: HTML
+  - item: CSS
+  - item: SQL
+  - item: Python
+  - item: PHP
+  - item: C++/C#
+
+frameworks:
+  - item: Flutter
+  - item: SwiftUI
+  - item: Jetpack Compose
+  - item: Node
+  - item: React
+  - item: Express
+  - item: Jquery
+  - item: Firebase
+
+tools:
+  - item: Xcode
+  - item: Android Studio
+  - item: Git & Github
+  - item: Redis
+  - item: MongoDB
+
+design:
+  - item: Figma
+  - item: Adobe XD
+  - item: Photoshop

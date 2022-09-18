@@ -1,0 +1,61 @@
+- name: Nairalance Rewards for iOS
+  url: https://github.com/anthonioez/nairalance_rewards_ios
+  description: Reward based app with daily tasks and cashouts
+  used:
+    - thing: Swift
+    - thing: Objective C
+
+- name: Camera Preview
+  url: https://github.com/anthonioez/camera_scanner_ios
+  description: Camera preview with circular progress and wave animations in SwiftUI
+  used:
+    - thing: Swift
+    - thing: SwiftUI
+
+- name: Selfie Modelling
+  url: https://github.com/anthonioez/selfie_modelling_ios
+  description: Automatic photo capture and video recording
+  used:
+    - thing: Objective C
+
+- name: Bill Stack for iOS
+  url: https://github.com/anthonioez/billstack_ios
+  description: Bill management app
+  used:
+    - thing: Objective C
+    - thing: Parse
+
+- name: Colors for iOS
+  url: https://github.com/anthonioez/colors_ios
+  description: Wall paint color picker with MapKit
+  used:
+    - thing: Objective C
+    - thing: MapKit
+
+- name: Kickz Exchange for iOS
+  url: https://github.com/anthonioez/kicks_exchange_ios
+  description: Sneakers exchange app
+  used:
+    - thing: Objective C
+    - thing: PayPal
+
+- name: Trattoria Cesarino
+  url: https://github.com/anthonioez/fr_ios
+  description: Trattoria Cesarino
+  used:
+    - thing: Objective C
+    - thing: MapKit
+
+- name: Review This
+  url: https://github.com/anthonioez/fr_ios
+  description: Online review with reviewer and review requested apps
+  used:
+    - thing: Objective C
+
+- name: GPS Tracking
+  url: https://github.com/anthonioez/location_tracking_ios
+  description: GPS tracking and MapKit
+  used:
+    - thing: Swift
+    - thing: Objective C
+    - thing: MapKit

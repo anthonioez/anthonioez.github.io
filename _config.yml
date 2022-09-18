@@ -1,0 +1,66 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Anthony Ezeh
+email: anthonioez@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Highly experienced Full Stack Developer with over 12 years of experience in front-end, back-end, desktop and mobile app development.   Skilled in incorporating input into projects, with the ability to build from scratch or improve already existing code. 
+  Good eye for design, functionality and user experience.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://anthonioez.github.io/
+twitter_username: anthonioez
+github_username:  anthonioez
+cover: /static/img/og.png
+logo: /static/img/emojis/sunglasses.png
+resume: /resume.pdf
+social:
+  - title: email
+    url: mailto:anthonioez@gmail.com
+  - title: github
+    url: https://github.com/anthonioez
+  - title: linkedin
+    url: https://www.linkedin.com/in/anthony-ezeh
+  - title: behance
+    url: https://behance.net/anthonioez
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'src'
+  - 'gulpfile.js'
+  - 'gruntfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

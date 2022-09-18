@@ -1,0 +1,72 @@
+- name: Catchup for iOS
+  id: catchup-ios
+  url: https://apps.apple.com/us/app/catchup-news-newspapers-blogs/id943973024
+  description: New aggregation app for iOS built with Swift/SwiftUI.
+  images:
+    - url: /static/img/featured/catchup-ios/1.png
+    - url: /static/img/featured/catchup-ios/2.png
+    - url: /static/img/featured/catchup-ios/3.png
+    - url: /static/img/featured/catchup-ios/4.png
+
+- name: Catchup for Android
+  id: catchup-android
+  url: https://play.google.com/store/apps/details?id=ng.catchup.android
+  description: New aggregation app for Android built with Java/Kotlin.
+  images:
+    - url: /static/img/featured/catchup-android/1.png
+    - url: /static/img/featured/catchup-android/2.png
+    - url: /static/img/featured/catchup-android/3.png
+    - url: /static/img/featured/catchup-android/4.png
+
+- name: Halftime Sports for iOS
+  id: halftime-ios
+  url: https://apps.apple.com/app/halftime-basketball/id1486483659
+  description: Sports community, live audio, news and quiz. Built with Swift & Flutter
+  images:
+    - url: /static/img/featured/halftime-ios/1.png
+    - url: /static/img/featured/halftime-ios/2.png
+    - url: /static/img/featured/halftime-ios/3.png
+    - url: /static/img/featured/halftime-ios/4.png
+
+- name: Halftime Sports for Android
+  id: halftime-android
+  url: https://play.google.com/store/apps/details?id=co.sayshell.halftime
+  description: Sports community, live audio, news and quiz. Built with Java, Kotlin & Flutter
+  images:
+    - url: /static/img/featured/halftime-android/1.png
+    - url: /static/img/featured/halftime-android/2.png
+    - url: /static/img/featured/halftime-android/3.png
+    - url: /static/img/featured/halftime-android/4.png
+
+- name: Screentime Manager for iOS
+  id: screentime-ios
+  url: https://apps.apple.com/app/stm-screentime-manager/id1447876325
+  description: Manager app for screentime.cloud digital signage platform. Built with swift & Objective-C
+  images:
+    - url: /static/img/featured/screentime-ios/1.png
+    - url: /static/img/featured/screentime-ios/2.png
+    - url: /static/img/featured/screentime-ios/3.png
+    - url: /static/img/featured/screentime-ios/4.png
+
+- name: Screentime Manager for Android
+  id: screentime-ios
+  url: https://play.google.com/store/apps/details?id=cloud.screentime.manager.android
+  description: Manager app for screentime.cloud digital signage platform. Built with Kotlin.
+  images:
+    - url: /static/img/featured/screentime-android/1.png
+    - url: /static/img/featured/screentime-android/2.png
+    - url: /static/img/featured/screentime-android/3.png
+    - url: /static/img/featured/screentime-android/4.png
+
+#- name: Screentime Manager for Web
+#  id: screentime-web
+#  url: https://screentime.cloud/manager
+#  description: Content management web app with media upload, playlist and schedule management
+#  cover: /static/img/featured/screentime-web/cover.png
+
+#- name: Halftime for Web
+#  id: halftime-web
+#  url: https://thehalftime.app
+#  description: Account management with feed, content editing and posting.
+#  cover: /static/img/featured/halftime-web/cover.png
+

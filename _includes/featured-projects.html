@@ -1,0 +1,35 @@
+<section class="section featured-projects">
+    <div class="section__title">Featured Projects</div>
+    <div class="section__content">
+        {% for project in site.data.featured-projects %}
+        <div class="project {{project.id}}">
+            <figcaption class="project__caption">
+                <div class="project__name">
+                    <a href="{{project.url}}" target="_blank">{{project.name}}</a>
+                </div>
+                <p>{{project.description}}</p>
+            </figcaption>
+
+            {% if project.cover %}
+            <figure class="project__pic">
+                <a href="{{project.url}}" target="_blank">
+                    <img src="{{site.baseurl}}{{project.cover}}" alt="">
+                </a>
+            </figure>
+            {% endif %}
+
+            {% if project.images %}
+            <figure class="project__pic phones">
+                <a href="{{project.url}}" target="_blank">
+                    {% for image in project.images %}
+                    <div class="phone">
+                        <img src="{{site.baseurl}}{{image.url}}" alt="">
+                    </div>
+                    {% endfor %}
+                </a>
+            </figure>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+</section>

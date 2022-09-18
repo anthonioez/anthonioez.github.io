@@ -1,0 +1,94 @@
+- group: Other Projects (iOS)
+  projects:
+    - name: Sync for iOS
+      url: https://apps.apple.com/app/sync-file-backup-and-restore/id945501464
+      description: Personal file backup and file manager app with multithreaded file processing.
+      used:
+        - thing: Swift
+        - thing: Objective C
+        - thing: Firebase
+        - thing: Dropbox
+        - thing: Google Drive
+        - thing: OneDrive
+        - thing: AWS S3
+        - thing: Box
+
+    - name: Nairalance for iOS
+      url: https://apps.apple.com/app/nairalance/id1143523250
+      description: A freelance, outsourcing and micro-services marketplace.
+      used:
+        - thing: Swift
+        - thing: Objective C
+        - thing: Firebase
+        - thing: REST API
+
+    - name: Navahang for iOS
+      url: https://itunes.apple.com/app/navahang/id1068437034
+      description: A music and video streaming app.
+      used:
+        - thing: Swift
+        - thing: Objective C
+        - thing: REST API
+
+    - name: Caltex Music for iOS
+      url: https://itunes.apple.com/app/caltex-music/id1272287839
+      description: A Persian music and video streaming app 
+      used:
+        - thing: Swift
+        - thing: Objective C
+        - thing: REST API
+    
+    - name: Hashtagger for iOS
+      url: https://itunes.apple.com/app/hashtagger-enhance-your-text-for-instagram-twitter/id1011285429
+      description: Hashtag management app for Twitter, Tiktok, Facebook and Instagram
+      used:
+        - thing: Swift
+        - thing: Objective C
+
+    - name: Aalisiri for iOS
+      url: https://apps.apple.com/app/aalisiri-audiobooks/id1469361029
+      description: An audio book player app
+      used:
+        - thing: Swift
+        - thing: Objective C
+
+    - name: VPN45 for iOS
+      url: https://itunes.apple.com/app/id595712482
+      description: VPN app with in-app subscriptions
+      used:
+        - thing: Swift
+        - thing: Objective C
+
+    - name: Ronnie Saleh for iOS
+      url: https://itunes.apple.com/app/ronie-saleh/id1439099527
+      description: Audio and video streaming app
+      used:
+        - thing: Swift
+        - thing: Objective C
+
+    - name: MyFin India for iOS
+      url: https://itunes.apple.com/us/app/myfinindia-mobile/id21101983
+      description: Portfolio management app
+      used:
+        - thing: Swift
+        - thing: Objective C
+
+    - name: Miscellaneous
+      url: /ios-extra.html
+      description: Other iOS projects
+
+- group: Other Projects (Android)
+  projects:
+    - name: To be added...
+
+- group: Other Projects (BlackBerry)
+  projects:
+    - name: To be added...
+
+- group: Other Projects (Frontend)
+  projects:
+    - name: To be added...
+
+- group: Other Projects (Backend)
+  projects:
+    - name: To be added...
