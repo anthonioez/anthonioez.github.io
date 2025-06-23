@@ -1,9 +1,10 @@
 languages:
-  - item: Swift/Objective-C
+  - item: Swift/SwiftUI
+  - item: Objective-C
   - item: Kotlin
   - item: Java
   - item: Dart
-  - item: JavaScript
+  - item: JavaScript/Typescript
   - item: HTML
   - item: CSS
   - item: SQL
@@ -12,21 +13,28 @@ languages:
   - item: C++/C#
 
 frameworks:
-  - item: Flutter
   - item: SwiftUI
   - item: Jetpack Compose
-  - item: Node
+  - item: Flutter
+  - item: React Native
   - item: React
+  - item: NextJS
+  - item: NodeJS
   - item: Express
+  - item: Wordpress
   - item: Jquery
   - item: Firebase
+  - item: TailwindCSS
+  - item: Mantine
 
 tools:
   - item: Xcode
   - item: Android Studio
+  - item: VSCode
   - item: Git & Github
   - item: Redis
   - item: MongoDB
+  - item: Postman
 
 design:
   - item: Figma

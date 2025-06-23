@@ -19,26 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Anthony Ezeh
-email: anthonioez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Highly experienced Full Stack Developer with over 12 years of experience in front-end, back-end, desktop and mobile app development.   Skilled in incorporating input into projects, with the ability to build from scratch or improve already existing code. 
+  Highly experienced Full Stack Developer with over 14 years of experience in front-end, back-end, desktop and mobile app development.   Skilled in incorporating input into projects, with the ability to build from scratch or improve already existing code. 
   Good eye for design, functionality and user experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://anthonioez.github.io/
-twitter_username: anthonioez
 github_username:  anthonioez
 cover: /static/img/og.png
 logo: /static/img/emojis/sunglasses.png
-resume: /resume.pdf
+freelancer: https://freelancer.com/u/anthonioez
+upwork: https://www.upwork.com/freelancers/anthonioez
 social:
-  - title: email
-    url: mailto:anthonioez@gmail.com
+  - title: upwork
+    url: https://www.upwork.com/freelancers/anthonioez
+  - title: freelancer
+    url: https://freelancer.com/u/anthonioez
   - title: github
     url: https://github.com/anthonioez
   - title: behance
     url: https://behance.net/anthonioez
-  - title: linkedin
-    url: https://linkedin.com/in/anthony-ezeh
 
 # Build settings
 markdown: kramdown
